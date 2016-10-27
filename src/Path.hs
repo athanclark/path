@@ -58,7 +58,7 @@ import           Data.List
 import           Data.Maybe
 import           Language.Haskell.TH
 import           Path.Internal
-import qualified System.FilePath as FilePath
+import qualified System.FilePath.Posix as FilePath
 
 --------------------------------------------------------------------------------
 -- Types
